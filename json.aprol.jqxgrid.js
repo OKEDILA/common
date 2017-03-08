@@ -15,7 +15,6 @@ function AprolGrid(objectname, parameter, gWidth, gHeight, updateintervall) {
 	var filterData = new Array();
 
 // Teste repository
-// Noch eine Änderung
 
 	for (var i = 0; i < parameter.length; i++) {
 		if (i < parameter.length) {
